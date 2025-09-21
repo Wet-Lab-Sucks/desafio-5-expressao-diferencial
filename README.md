@@ -1,2 +1,11 @@
-# desafio-5-expressao-diferencial
-Desafio 5 da Segunda Fase da LBB 2025. Exploramos abordagens envolvendo bioinformática aplicada e análise de dados para investigar a resposta de bactérias a antibióticos e o perfil de expressão gênica em pacientes com tuberculose e diabetes.
+# Desafio 5: Expressão Diferencial de Genes
+
+Este repositório documenta nossas soluções para os desafios de Expressão Diferencial de Genes (`DEGs`) da Liga Brasileira de Bioinformática (2025). 
+
+Este desafio exigiu a análise de dados de transcrição em dois contextos distintos: a `resposta bacteriana a um antibiótico` e a `expressão gênica em pacientes com uma doença crônica`.
+
+## Desafios
+
+Este desafio foi dividido em duas etapas:
+* [Desafio 5.1: Análise de DEGs em Klebsiella pneumoniae](01)
+* [Desafio 5.2: Análise de DEGs entre Tuberculose (TB) e Tuberculose com Diabetes (TBDM)](02)
